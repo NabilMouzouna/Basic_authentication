@@ -17,7 +17,9 @@ This is a simple JavaFX project implementing a basic authentication system with 
 ## Installation
 
 1. Clone the repository:
-
+```
+ git clone https://github.com/NabilMouzouna/Basic_authentication.git
+```
 
 2. Set up MySQL database:
 
